@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  ChildFrm.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  MultiFuncStation.cpp
+  MultiFuncStationDoc.cpp
+  MultiFuncStationView.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  正在生成代码...
+  MultiFuncStation.vcxproj -> E:\work\VisualStudio\MultiFuncStation\Debug\MultiFuncStation.exe
